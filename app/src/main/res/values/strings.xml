@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab4 - Dog Viewer</string>
+    <string name="sub_breeds">{count} sub breed{s}</string>
+    <string name="search">Search</string>
+</resources>
